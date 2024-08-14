@@ -670,15 +670,9 @@
     },
     "shinylive": {
       "Package": "shinylive",
-      "Version": "0.2.0.9000",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "r-shinylive",
-      "RemoteUsername": "posit-dev",
-      "RemotePkgRef": "posit-dev/r-shinylive",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "bea837d31a939ee95f648f29c78c72cc7ee8531e",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
       "Requirements": [
         "archive",
         "brio",
@@ -697,7 +691,7 @@
         "whisker",
         "withr"
       ],
-      "Hash": "99617b3d528f3d91e02299100a63dba8"
+      "Hash": "224c8c0502bb0ead1fd1b4b32ea04a90"
     },
     "sourcetools": {
       "Package": "sourcetools",
